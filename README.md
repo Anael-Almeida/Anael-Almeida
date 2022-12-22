@@ -1,9 +1,13 @@
-- 👋 Meu nome é Anael
-<hr>
+- 👋 <u>Meu nome é Anael</u>
+
 
 
 - 👀 Meus Interesses
-<hr>
+
+.NET C# / ASP.NET<br>
+Javascript<br>
+Banco de dados (SQL Server)<br>
+HTML/CSS<br>
 
 .NET, C#, Javascript, SQL Server, Python, HTML e CSS.
 
