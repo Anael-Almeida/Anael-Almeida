@@ -1,11 +1,11 @@
 - 👋 Meu nome é Anael
-- 
-- 👀 I’m interested in ...
-.NET C# / ASP.NET
--Javascript
--Microsoft Azure
--Bancos de dados
--HTML/CSS
+<hr>
+
+
+- 👀 Meus Interesses
+<hr>
+
+.NET, C#, Javascript, SQL Server, Python, HTML e CSS.
 
 <!---
 Anael-Almeida/Anael-Almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
